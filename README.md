@@ -2,7 +2,7 @@
 # Pour la bonne demarche de notre projet voici les etapes a suivre pour la meilleur coloaboration
 ## 1 Que chaque membre du groupe fork le projet et cree sa propre brance (monNom/partie_nomPartie).
 ## 1.1 exemple de nom de branche (Karim/partie_Controller)
-## 1.1 pour pusher votre travail faite le sur la brache develop (Je dis bien sur la branche develop)
+## 1.2 pour pusher votre travail faite le sur la brache develop (Je dis bien sur la branche develop)
 ## 2 Que chaque membre du groupe respecte la nomination des varible (format camolCase)
 ## 2.1 exemple de variable $monAge
 # La repartition des taches (Parite 1)
